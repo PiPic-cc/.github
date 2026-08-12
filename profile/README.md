@@ -1,11 +1,18 @@
-# PiPic — image compression for people and agents
+# PiPic
 
-[pipic.cc](https://pipic.cc) compresses PNG, JPEG, WebP and AVIF —
-up to 100 images at a time, free, no signup.
+[PiPic Image Compressor](https://pipic.cc/about) compresses PNG, JPEG,
+WebP and AVIF in the browser for free and exposes developer workflows through
+the official [@pipic/cli](https://www.npmjs.com/package/@pipic/cli) and HTTP
+API.
+
+- Web: https://pipic.cc/
+- CLI source: https://github.com/PiPic-cc/pipic-cli
+- npm: https://www.npmjs.com/package/@pipic/cli
+- API and CLI docs: https://pipic.cc/cli
 
 ## Web app
 
-Drag, drop, done — [pipic.cc](https://pipic.cc)
+Drag, drop, done — [pipic.cc](https://pipic.cc/)
 
 - Batch up to 100 images, 8 MB each
 - Smart lossy compression that preserves visual quality
